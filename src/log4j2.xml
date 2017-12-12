@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<RollingFile name="AISITAgent" fileName=".\logs\AISITAgent.log" 
+			filePattern=".\logs\AISITAgent-%d{MM-dd-yyyy}-%i.log"> <!--  for backup -->
+			<PatternLayout>
+				<Pattern>[%d{DEFAULT}][%5p] [%c] [%t][%c{1}] - %m%n</Pattern>
+				<!-- 
+				%d - date of the logging event.
+				 The date conversion specifier may be followed by a date format specifier enclosed between braces.
+				 For example, %d{HH:mm:ss,SSS} or %d{dd MMM yyyy HH:mm:ss,SSS}.
+				 If no date format specifier is given then ISO8601 format is assumed.
+				 
+				 %p - priority
+				 %c - Category
+				 %t - name of the thread that generated the logging event
+				 %m - application supplied message associated with the logging event.
+				 -->
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="2 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="100" /> <!--  max files -->
+		</RollingFile>
+
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="AISITAgent" />
+		</Root>
+	</Loggers>
+</Configuration>

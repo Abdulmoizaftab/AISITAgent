@@ -1,0 +1,31 @@
+[2017-08-23 12:23:48,351][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 12:23:48,372][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 12:23:48,372][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 12:23:48,372][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 12:23:48,373][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 232641701_8398_1001_0006_1.jpg
+[2017-08-23 12:23:48,373][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 12:23:48,374][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-08-23 12:24:13,025][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:24:13,025][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122409500_7435_1018_0001_1.jpg
+[2017-08-23 12:24:21,136][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:24:21,137][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122419421_4124_1018_0002_1.jpg
+[2017-08-23 12:24:29,194][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 2
+[2017-08-23 12:24:29,194][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122428934_8845_1000_0003_1.jpg
+[2017-08-23 12:24:33,266][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 3
+[2017-08-23 12:24:33,266][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122429291_8845_1018_0003_1.jpg
+[2017-08-23 12:24:41,384][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:24:41,384][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122439144_1971_1018_0004_1.jpg
+[2017-08-23 12:24:49,473][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 4
+[2017-08-23 12:24:49,473][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122448939_6777_1017_0005_1.jpg
+[2017-08-23 12:24:53,501][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 1
+[2017-08-23 12:24:53,501][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122449101_6777_1018_0005_1.jpg
+[2017-08-23 12:25:01,668][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:25:01,668][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122459435_8165_1018_0006_1.jpg
+[2017-08-23 12:25:09,766][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:25:09,766][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122509213_5082_1018_0007_1.jpg
+[2017-08-23 12:25:21,898][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:25:21,899][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122519493_8741_1018_0008_1.jpg
+[2017-08-23 12:25:29,988][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:25:29,988][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122529413_4736_1018_0009_1.jpg
+[2017-08-23 12:25:42,112][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-23 12:25:42,112][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170823 ,LastImageUploaded: 122539231_3401_1018_0010_1.jpg

@@ -1,0 +1,131 @@
+[2017-08-24 12:29:06,559][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 2
+[2017-08-24 12:29:06,576][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170824 ,LastImageUploaded: 122906036_5219_1000_0001_1.jpg
+[2017-08-24 12:29:10,615][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 3
+[2017-08-24 12:29:10,616][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170824 ,LastImageUploaded: 122906580_5219_1018_0001_1.jpg
+[2017-08-24 12:29:18,684][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 5
+[2017-08-24 12:29:18,685][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20170824 ,LastImageUploaded: 122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:32,331][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 14:14:32,347][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:32,394][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:36,420][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:40,447][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:44,452][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:44,467][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:48,489][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:52,508][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:14:56,524][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:14:56,524][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:14:56,540][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:15:00,561][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:15:04,571][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906036_5219_1000_0001_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906093_5219_1003_0001_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906343_5219_1017_0001_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906580_5219_1018_0001_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122906841_5219_1001_0001_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915806_5171_1000_0002_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122915856_5171_1003_0002_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916094_5171_1017_0002_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916304_5171_1018_0002_1.jpg
+[2017-08-23 14:15:04,587][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Thumbs.db found at C:\Users\aaftab\Documents\NetBeansProjects\AISAgent\Images\00001111\20170824\122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 14:16:34,848][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 17:34:34,664][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-08-23 17:35:01,339][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 17:35:01,339][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 17:35:01,339][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 17:35:01,355][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 17:35:01,355][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-08-23 17:35:01,355][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 17:35:01,355][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-08-23 17:54:48,849][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-08-23 17:54:48,864][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
