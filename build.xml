@@ -70,4 +70,10 @@
     nbproject/build-impl.xml file. 
 
     -->
+		<target name="-post-jar">
+    <property name="version.num" value="1.1" />
+    <buildnumber file="build.num" />
+    
+    <copy file="${dist.jar}" tofile="${dist.dir}/AISITAgent-${version.num}.jar" />
+</target>
 </project>

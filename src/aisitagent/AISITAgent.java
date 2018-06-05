@@ -49,6 +49,7 @@ public class AISITAgent {
             String user = "";
             String pass = "";
             String LastImageUploaded = "";
+            String DirCreated = "";
             int ImageUploadingInterval = 60;
             int RetryConnFailureInterval = 60;
             int SendImage = 0;
@@ -132,32 +133,7 @@ logger.info("ATM ID: "+DeviceID);
             while(run!=false){
                   try {
             FTPClient ftpClient = new FTPClient();
-            try{
-              ftpClient.connect(server, port);
-            }
-            catch(ConnectException ex){
-           // Logger.getLogger(AISITAgent.class.getName()).log(Level.SEVERE, null, ex);
-         if(ex.toString().contains("Connection refused")){             
-         logger.info("Connection to Server ("+server+") Connection Not possible");         
-         }
-         else if(ex.toString().contains("Connection timed out")){             
-         logger.info("Connection timed out to Server("+server+")  Connection Not possible");         
-         }
-         else if(ex.toString().contains("No route to host")){             
-         logger.info("No route to host("+server+"), Check Network Cable");         
-         }
-         
-         else{
-         logger.error( "Error:",ex);
-         }
-            Thread.sleep(RetryConnFailureInterval*1000);
-            continue;
-            
-            }
-            ftpClient.login(user, pass);
-            ftpClient.enterLocalPassiveMode();
-            ftpClient.setFileType(FTP.BINARY_FILE_TYPE); 
-                
+                            
                 
               File dir = new File(ImagePath);
               System.out.println("1"+dir.getAbsoluteFile());         
@@ -223,11 +199,47 @@ logger.info("ATM ID: "+DeviceID);
              
                  Arrays.sort(files);
                  System.out.println("Folders length="+files.length);
-                 AISITAgent FTPUtil= new AISITAgent();   
+                 
+                 
+//                 if(!ftpClient.isConnected()){
+//                 try{
+//              ftpClient.connect(server, port);
+//              showServerReply( ftpClient);
+//            }
+//            catch(ConnectException ex){
+//           // Logger.getLogger(AISITAgent.class.getName()).log(Level.SEVERE, null, ex);
+//         if(ex.toString().contains("Connection refused")){             
+//         logger.info("Connection to Server ("+server+") Connection Not possible");         
+//         }
+//         else if(ex.toString().contains("Connection timed out")){             
+//         logger.info("Connection timed out to Server("+server+")  Connection Not possible");         
+//         }
+//         else if(ex.toString().contains("No route to host")){             
+//         logger.info("No route to host("+server+"), Check Network Cable");         
+//         }
+//         
+//         else{
+//         logger.error( "Error:",ex);
+//         }
+//            Thread.sleep(RetryConnFailureInterval*1000);
+//            continue;
+//            
+//            }
+//            ftpClient.login(user, pass);
+//            showServerReply( ftpClient);
+//            ftpClient.enterLocalPassiveMode();
+//            ftpClient.setFileType(FTP.BINARY_FILE_TYPE);
+//                 }
+           
+
+               
                  String dirPath = "/"+DeviceID+"/"+Date+"/";
                  System.out.println("RemotePath="+dirPath);
-                 ftpClient.changeWorkingDirectory("/");
-                 FTPUtil.makeDirectories(ftpClient, dirPath);
+               
+//                 if (ftpClient.isConnected()) {
+//                    ftpClient.logout();
+//                    ftpClient.disconnect();
+//                }
                  
                  for (int i=0;i<files.length;i++){
                
@@ -271,10 +283,48 @@ logger.info("ATM ID: "+DeviceID);
             
             
             if (SendImage!=0){
+                
+                if(!ftpClient.isConnected()){
+                         try{
+              ftpClient.connect(server, port);
+              showServerReply( ftpClient);
+            }
+            catch(ConnectException ex){
+           // Logger.getLogger(AISITAgent.class.getName()).log(Level.SEVERE, null, ex);
+         if(ex.toString().contains("Connection refused")){             
+         logger.info("Connection to Server ("+server+") Connection Not possible");         
+         }
+         else if(ex.toString().contains("Connection timed out")){             
+         logger.info("Connection timed out to Server("+server+")  Connection Not possible");         
+         }
+         else if(ex.toString().contains("No route to host")){             
+         logger.info("No route to host("+server+"), Check Network Cable");         
+         }
+         
+         else{
+         logger.error( "Error:",ex);
+         }
+            Thread.sleep(RetryConnFailureInterval*1000);
+            continue;
+            
+            }
+            ftpClient.login(user, pass);
+            showServerReply( ftpClient);
+            ftpClient.enterLocalPassiveMode();
+            ftpClient.setFileType(FTP.BINARY_FILE_TYPE);
+                }
+             if(!DirCreated.equals(dirPath)){    
+                 AISITAgent FTPUtil= new AISITAgent();   
+                 ftpClient.changeWorkingDirectory("/");
+                 //showServerReply( ftpClient);
+                 FTPUtil.makeDirectories(ftpClient, dirPath);
+                 DirCreated=dirPath;
+            }
             InputStream inputStream = new FileInputStream(firstLocalFile);
  
             System.out.println("Trying to upload file: "+path.getName());
             boolean done = ftpClient.storeFile(firstRemoteFile, inputStream);
+            //showServerReply( ftpClient);
             inputStream.close();
             if (done) {
                 System.out.println("File Uploaded: "+path.getName());
@@ -312,6 +362,7 @@ logger.info("ATM ID: "+DeviceID);
                 if (ftpClient.isConnected()) {
                     ftpClient.logout();
                     ftpClient.disconnect();
+                    showServerReply( ftpClient);
                 }
          
               }
@@ -383,27 +434,42 @@ logger.info("ATM ID: "+DeviceID);
  
     
      public static boolean makeDirectories(FTPClient ftpClient, String dirPath)
-            throws IOException {
+             {
         String[] pathElements = dirPath.split("/");
         if (pathElements != null && pathElements.length > 0) {
             for (String singleDir : pathElements) {
-                boolean existed = ftpClient.changeWorkingDirectory(singleDir);
-                if (!existed) {
-                    boolean created = ftpClient.makeDirectory(singleDir);
-                    if (created) {
-                        System.out.println("CREATED directory: " + singleDir);
-                        logger.error("FTP CREATED directory: " + singleDir);
-                        ftpClient.changeWorkingDirectory(singleDir);
-                    } else {
-                        System.out.println("COULD NOT create directory: " + singleDir);
-                        logger.error("FTP COULD NOT create directory: " + singleDir);
-                        return false;
+                try {
+                    boolean existed = ftpClient.changeWorkingDirectory(singleDir);
+                    //showServerReply( ftpClient);
+                    if (!existed) {
+                        boolean created = ftpClient.makeDirectory(singleDir);
+                        showServerReply( ftpClient);
+                        if (created) {
+                            System.out.println("CREATED directory: " + singleDir);
+                            logger.error("FTP CREATED directory: " + singleDir);
+                            ftpClient.changeWorkingDirectory(singleDir);
+                        } else {
+                            System.out.println("COULD NOT create directory: " + singleDir);
+                            logger.error("FTP COULD NOT create directory: " + singleDir);
+                            return false;
+                        }
                     }
+                } catch (IOException ex) {
+                    logger.error("Error: "+ ex);
                 }
             }
         }
         return true;
     }
+     private static void showServerReply(FTPClient ftpClient) {
+    String[] replies = ftpClient.getReplyStrings();
+    if (replies != null && replies.length > 0) {
+        for (String aReply : replies) {
+            System.out.println("SERVER: " + aReply);
+            logger.info("SERVER: " + aReply);
+        }
+    }
+}
     
     
 }

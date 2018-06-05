@@ -1,0 +1,18 @@
+[2017-10-11 12:28:46,834][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 122916482_5171_1001_0002_1.jpg
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-10-11 12:28:46,883][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
+[2017-10-11 12:28:46,999][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 1
+[2017-10-11 12:28:46,999][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20171004 ,LastImageUploaded: Never
+[2017-10-11 12:28:47,933][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - No. of Images tranfered: 50
+[2017-10-11 12:28:47,933][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Uploaded Date: 20171005 ,LastImageUploaded: 155456185_2432_1017_0006_1.jpg
+[2017-10-11 12:31:47,582][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Application Started
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Server: 10.21.21.212
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - port: 21
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - user: administrator
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - LastImageUploaded: 155456458_2432_1001_0006_1.jpg
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - Image Path: C:\\Users\\aaftab\\Documents\\NetBeansProjects\\AISAgent\\Images
+[2017-10-11 12:31:47,586][ INFO] [aisitagent.AISITAgent] [main][AISITAgent] - ATM ID: 00001111
